@@ -6,7 +6,8 @@ package verifica;
 
 /**
  *
- * @author Wangj
+ * Wang Jimmy 4InfD
+ * Verifica Progetta e definisci il codice per un programma in linguaggio Java che gestisca una scuola con studenti e docenti. Ogni studente ha cognome, nome, e 3 tre voti (1 per ogni materia), mentre ogni docente ha un cognome e una materia che insegna:
  */
 public class Verifica {
 
