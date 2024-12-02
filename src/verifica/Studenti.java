@@ -3,11 +3,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package verifica;
-import java.util.Scanner;
+import java.util.Scanner; //Import della classe per lo scan.
 
 public class Studenti {
     
-    Scanner myScan = new Scanner(System.in);
+    Scanner myScan = new Scanner(System.in); // creazione dell'oggetto per richiamare il metodo.
     // Inizio : Dichiarazione dei attributi della classe. 
     private String Nome;
     private String Cognome;
