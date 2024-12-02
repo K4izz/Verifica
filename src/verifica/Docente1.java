@@ -14,10 +14,14 @@ public class Docente1 {
     private String Materia;
     private int voto;
     // Fine : Dichiarazione degli attributi della classe. 
+    
+    // Inizio : Creazione del costruttore con il passaggio di 2 stringhe.
     public Docente1(String Docente,String Materia){
         this.Docente = Docente;
         this.Materia = Materia;
     }
+    // Fine : Creazione del costruttore con il passaggio di 2 stringhe.
+    
     // Inizio : Creazione del metodo per la stampa.
     public void Stampa(int voto){
         this.voto = voto;
